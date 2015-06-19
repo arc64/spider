@@ -1,0 +1,33 @@
+{
+  "name": "spider",
+  "version": "0.1.0",
+  "authors": [{ "name": "Annabel Church"}],
+  "main": [
+    "dist/spider.js",
+    "dist/spider.css"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.1",
+    "d3": ">=3.4.8"
+  },
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "examples",
+    "gulp",
+    "gulpfile.js",
+    "index.js",
+    "node_modules",
+    "package.json",
+    "src",
+    "testem.json",
+    "tests"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arc64/spider.git"
+  },
+  "keywords": []
+}
